@@ -7,3 +7,4 @@ Loginpage Code
 Sign in Page Code
 
 Home Page Code
+logout page
